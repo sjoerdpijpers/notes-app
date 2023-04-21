@@ -1,5 +1,6 @@
 # notes-app
-Create and delete notes with title and description
+React app to create and delete notes with title and description
 
-Run on your local machine with the following commands:
-"npm install" and "npm start"
+How to run from terminal:
+1. "npm install" to install all depending packages
+2. "npm start"
